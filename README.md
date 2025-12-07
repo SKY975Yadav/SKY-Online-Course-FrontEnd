@@ -82,11 +82,6 @@ A modern, responsive frontend application for the Online Course Management Syste
   - Enrollment monitoring
   - Platform statistics and analytics
 
-### 💳 Payment Integration
-- Razorpay payment gateway integration (ready)
-- Secure payment processing
-- Payment history tracking
-- Order creation and verification
 
 ### 📝 Feedback & Reviews
 - 5-star rating system
@@ -551,7 +546,7 @@ All components follow mobile-first approach:
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
+### Vercel
 
 1. **Connect repository to Vercel**
 ```bash
